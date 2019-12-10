@@ -72,7 +72,8 @@ html
           h3 Man-in-the-middle : Jika spoofing terkadang hanya menipu satu pihak, maka dalam skenario ini, saat Anto hendak berkomunikasi dengan Badu, Maman di mata Anto seolah-olah adalah Badu, dan Maman dapat pula menipu Badu sehingga Maman seolah-olah adalah Anto. Maman dapat berkuasa penuh atas jalur komunikas ini, dan bisa membuat berita fitnah.
       
       section
-        h1 A. Substitusi
+        h1 Teknik Dasar Kriptografi
+        h2 A. Substitusi
         h3 Salah satu contoh teknik ini adalah Caesar cipher. Langkah pertama adalah membuat suatu tabel substitusi. Tabel substitusi dapat dibuat sesuka hati, dengan catatan bahwa penerima pesan memiliki tabel yang sama untuk keperluan dekripsi. Bila tabel substitusi dibuat secara acak, akan semakin sulit pemecahan ciphertext oleh orang yang tidak berhak.
       section
         h1 B. Blocking
@@ -91,6 +92,7 @@ html
         h2 Karakter-karakter yang dihilangkan disatukan kembali dan disusulkan sebagai "lampiran" dari pesan utama, dengan diawali oleh suatu karakter khusus, dalam contoh ini digunakan "&".
         h2 Digital Certificate Server (DCS) verifikasi untuk digital signatureautentikasi user menggunakan public dan private key
 	        h3 contoh : Netscape Certificate Server
+      section
         h2 IP Security (IPSec)
 	        h3 enkripsi public/private key dirancang oleh CISCO System menggunakan DES 40-bit dan authentication built-in pada produk CISCO solusi tepat untuk Virtual Private Network (VPN) dan Remote Network Access
         h2 Kerberos, solusi untuk user authentication dapat menangani multiple platform/system free charge (open source) IBM menyediakan versi komersial : Global Sign On (GSO)
@@ -98,6 +100,7 @@ html
 	       h3 dirancang oleh Microsoft, autentication berdasarkan PPP(Point to point protocol), enkripsi berdasarkan algoritm Microsoft (tidak terbuka), terintegrasi dengan NOS Microsoft (NT, 2000, XP)
         h2 Point to point Tunneling Protocol(PPTP), Layer Two Tunneling Protocol (L2TP)
 	        h3 dirancang oleh Microsoft, autentication berdasarkan PPP(Point to point protocol), enkripsi berdasarkan algoritm Microsoft (tidak terbuka), terintegrasi dengan NOS Microsoft (NT, 2000, XP)
+      section
         h2 Remote Access Dial-in User Service (RADIUS)
           h3 multiple remote access device menggunakan 1 database untuk authentication; didukung oleh 3com, CISCO, Ascend; tidak menggunakan encryption
         h2 RSA Encryption
@@ -106,6 +109,7 @@ html
           h3 dirancang oleh National Institute of Standard and Technology (NIST) USA. bagian dari standar DSS(Decision Support System) USA dan bekerja sama dengan DES untuk digital signature. SHA-1 menyediakan 160-bit message digest. Versi : SHA-256, SHA-384, SHA-512 (terintegrasi dengan AES)
         h2 MD5
           h3 MD5
+      section
         h2 Secure Shell (SSH)
           h3 digunakan untuk client side authentication antara 2 sistem; mendukung UNIX, windows, OS/2; melindungi telnet dan ftp (file transfer protocol)
         h2 Secure Socket Layer (SSL)
