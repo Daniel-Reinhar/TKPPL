@@ -73,8 +73,67 @@ html
       
       section
         h1 Teknik Dasar Kriptografi
-        h2 A. Substitusi
-        h3 Salah satu contoh teknik ini adalah Caesar cipher. Langkah pertama adalah membuat suatu tabel substitusi. Tabel substitusi dapat dibuat sesuka hati, dengan catatan bahwa penerima pesan memiliki tabel yang sama untuk keperluan dekripsi. Bila tabel substitusi dibuat secara acak, akan semakin sulit pemecahan ciphertext oleh orang yang tidak berhak.
-     
+          h2 A. Substitusi
+            h3 Salah satu contoh teknik ini adalah Caesar cipher. Langkah pertama adalah membuat suatu tabel substitusi. Tabel substitusi dapat dibuat sesuka hati, dengan catatan bahwa penerima pesan memiliki tabel yang sama untuk keperluan dekripsi. Bila tabel substitusi dibuat secara acak, akan semakin sulit pemecahan ciphertext oleh orang yang tidak berhak
+          h2 B. Blocking 
+            h3 Dengan menggunakan enkripsi blocking dipilih jumlah lajur dan kolom untuk penulisan pesan. Jumlah lajur atau kolom menjadi kunci bagi kriptografi dengan teknik ini. Plaintext dituliskan secara vertikal ke bawah berurutan pada lajur, dan dilanjutkan pada kolom berikutnya sampai seluruhnya tertulis. Ciphertext-nya adalah hasil pembacaan plaintext secara horizontal berurutan sesuai dengan blok-nya. Plaintext dapat pula ditulis secara horizontal dan ciphertextnya adalah hasil pembacaan secara vertikal.
 
+      section
+        h2 C. Permutasi
+          h3 Salah satu teknik enkripsi yang terpenting adalah permutasi atau sering juga disebut transposisi. Teknik ini memindahkan atau merotasikan karakter dengan aturan tertentu. Prinsipnya adalah berlawanan dengan teknik substitusi. Dalam teknik substitusi, karakter berada pada posisi yang tetap tapi identitasnya yang diacak. Pada teknik permutasi, identitas karakternya tetap, namun posisinya yang diacak. Sebelum dilakukan permutasi, umumnya plaintext terlebih dahulu dibagi menjadi blok-blok dengan panjang yang sama.
+        h2 D. Ekspansi
+          h3 Suatu metode sederhana untuk mengacak pesan adalah dengan memelarkan pesan itu dengan aturan tertentu. Salah satu contoh penggunaan teknik ini adalah dengan meletakkan huruf konsonan atau bilangan ganjil yang menjadi awal dari suatu kata di akhir kata itu dan menambahkan akhiran "an". Bila suatu kata dimulai dengan huruf vokal atau bilangan genap, ditambahkan akhiran "i".
+      
+      section
+        h2 E. Pemampatan
+          h3 Mengurangi panjang pesan atau jumlah bloknya adalah cara lain untuk menyembunyikan isi pesan. Contoh sederhana ini menggunakan cara menghilangkan setiap karakter ke-tiga secara berurutan. Karakter-karakter yang dihilangkan disatukan kembali dan disusulkan sebagai "lampiran" dari pesan utama, dengan diawali oleh suatu karakter khusus, dalam contoh ini digunakan "&".
+
+      section
+        h1 Solusi Enkripsi Modern
+          h4 IP Security (IPSec)
+            h3 enkripsi public/private key dirancang oleh CISCO System menggunakan DES 40-bit dan authentication built-in pada produk CISCO solusi tepat untuk Virtual Private Network (VPN) dan Remote Network Access
+          h4 Kerberos
+            h3 solusi untuk user authentication dapat menangani multiple platform/system free charge (open source) IBM menyediakan versi komersial : Global Sign On (GSO)
+
+      section
+        h4 Point to point Tunneling Protocol(PPTP), Layer Two Tunneling Protocol (L2TP)
+          h3 Dirancang oleh Microsoft, autentication berdasarkan PPP(Point to point protocol), enkripsi berdasarkan algoritm Microsoft (tidak terbuka), terintegrasi dengan NOS Microsoft (NT, 2000, XP)
+        h4 Remote Access Dial-in User Service (RADIUS)
+          h3 Multiple remote access device menggunakan 1 database untuk authentication; didukung oleh 3com, CISCO, Ascend; tidak menggunakan encryption
+        h4 RSA Encryption
+          h3 Dirancang oleh Rivest, Shamir, Adleman tahun 1977; standar de facto dalam enkripsi public/private key ; didukung oleh Microsoft, apple, novell, sun, lotus; mendukung proses authentication ; multi platform
+      
+      section
+        h4 Secure Socket Layer (SSL)
+          h3 Dirancang oleh Netscape; menyediakan enkripsi RSA pada layes session dari model OSI. independen terhadap servise yang digunakan. melindungi system secure web e-commerce; metode public/private key dan dapat melakukan authentication ; terintegrasi dalam produk browser dan web server Netscape.
+        h4 Security Token
+          h3 Aplikasi penyimpanan password dan data user di smart card
+        h4 Simple Key Management for Internet Protocol
+          h3 Seperti SSL bekerja pada level session model OSI. menghasilkan key yang static.
+      
+      section
+        h1 Aplikasi Enkripsi
+          h4 a. Jasa telekomunikasi 
+            h3 -Enkripsi untuk mengamankan informasi konfidensial baik berupa suara, data, maupun gambar yang akan dikirimkan ke lawan bicaranya. 
+            h3 -Enkripsi pada transfer data untuk keperluan manajemen jaringan dan transfer on-line data billing. 
+            h3 -Enkripsi untuk menjaga copyright dari informasi yang diberikan.
+          h4 b. Militer dan pemerintahan 
+            h3 -Enkripsi diantaranya digunakan dalam pengiriman pesan. 
+            h3 -Menyimpan data-data rahasia militer dan kenegaraan dalam media penyimpanannya selalu dalam keaadan terenkripsi.
+
+      section
+        h4 c. Data Perbankan 
+          h3 Informasi transfer uang antar bank harus selalu dalam keadaan terenkripsi
+        h4 d. Data konfidensial perusahaan 
+          h3 -Rencana strategis, formula-formula produk, database pelanggan/karyawan dan database operasional 
+          h3 -Pusat penyimpanan data perusahaan dapat diakses secara on-line. 
+          h3 -Teknik enkripsi juga harus diterapkan untuk data konfidensial untuk melindungi data dari pembacaan maupun perubahan secara tidak sah. 
+        h4 e. Pengamanan electronic mail 
+          h3 -Mengamankan pada saat ditransmisikan maupun dalam media penyimpanan.
+          h3 -Aplikasi enkripsi telah dibuat khusus untuk mengamankan e-mail, diantaranya PEM (Privacy Enhanced Mail) dan PGP (Pretty Good Privacy), keduanya berbasis DES dan RSA.
+
+      section
+        h1 Terimakasih
+      img(src="images/8.jpg")
+       
     script(src='build/build.js')
