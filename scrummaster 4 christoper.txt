@@ -1,0 +1,9 @@
+
+Scrum master 4 :Christoper
+Rabu,11-12-2019
+1.apa yang sudah dikerjakan?
+jawab :melanjutkan isi presentasi dan melakukan push ke github
+2.apa yang akan dikerjakan?
+jawab : Membuat Sprint Burntdown Chart 
+3.apa ada masalah?
+jawab : Terdapat masalah pada saat pembuatan Sprint Burntdown Chart pada excel dan telah di perbaiki

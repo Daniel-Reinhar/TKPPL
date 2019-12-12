@@ -1,0 +1,70 @@
+1.apa yang sudah dikerjakan?
+2.apa yang akan dikerjakan?
+3.apa ada masalah?
+
+Sabtu,7-12-2019
+aron 
+1.apa yang sudah dikerjakan?
+jawab : buat akun github dan trello,serta install node.js dan git dan juga mencoba menjalankan bespoke yang telah diinstal
+2.apa yang akan dikerjakan?
+jawab : membuat list pada trello
+3.apa ada masalah?
+jawab : terdapat masalah ketika push ke repository github (tidak bisa push file)
+
+Daniel
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : mencoba desain
+3. ada masalah dalam mengerjakan tugas?
+   jawaban :tidak ada
+
+Guntur
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : menginstal bespoke dan mencoba server bespoke
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : terjadi kegagalan dalam penginstalan bespoke
+
+Christopher
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : menginstal bespoke dan mencoba server bespoke
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak ada
+
+
+Minggu,8-12-2019
+Aron
+1.apa yang sudah dikerjakan?
+jawab : desain awal presentasi bespoke
+2.apa yang akan dikerjakan?
+jawab : mengedit template desain 
+3.apa ada masalah?
+jawab : terdapat masalah ketika push ke repository github (ketika push file semua ke reset karena mencoba code yang ada di internet dan sudah berhasil push)
+
+Daniel
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git serta mencoba desain
+2. apa yang akan di kerjakan hari ini?
+   jawaban : mengedit desain 
+3. ada masalah dalam mengerjakan tugas?
+   jawaban :tidak ada
+
+Guntur
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : membuat isi presentasi
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak ada
+
+Christopher
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : mencoba template desain
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak ada
