@@ -1,0 +1,68 @@
+Scrum master 3 :Guntur Chandra W
+Senin,9-12-2019
+Guntur
+1. kemarin mengerjakan apa?
+   jawaban : membantu mengerjakan isi dari presentasi
+2. apa yang akan di kerjakan hari ini?
+   jawaban : mempush hasil dari kerjaan ke git repository
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : Hasil dari push berantakan dan sudah diperbaiki
+
+Aron
+1. kemarin mengerjakan apa?
+   jawaban : Mencari desain dari presentasi
+2. apa yang akan di kerjakan hari ini?
+   jawaban : mencoba desain yang ada
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak
+
+Daniel
+1. kemarin mengerjakan apa?
+   jawaban : membuat atau mengkode isi presentasi
+2. apa yang akan di kerjakan hari ini?
+   jawaban : melakukan  Code di visual code
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : Mengubah dan mengedit hasil yg berantakan
+
+Christoper
+1. kemarin mengerjakan apa?
+   jawaban : Mencari cara membuat burntdown chart
+2. apa yang akan di kerjakan hari ini?
+   jawaban : Menverjakan tugas yang telah dieri
+3. ada masalah dalam mengerjakan tugas?
+   jawaban :tidak
+
+
+Selasa,10-12-2019
+Guntur
+1. kemarin mengerjakan apa?
+   jawaban : Mengumpulkan hasil laporan laporan per scrum master
+2. apa yang akan di kerjakan hari ini?
+   jawaban :mencocokan struktur dari laporan per scrum master dan mempush nya ke github
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak
+
+Aron
+1. kemarin mengerjakan apa?
+   jawaban :membuat laporan saat menjadi scrum master
+2. apa yang akan di kerjakan hari ini?
+   jawaban : membuat laporan di notepad dan mempush ke github
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : Tidak
+
+Daniel
+1. kemarin mengerjakan apa?
+   jawaban :membuat laporan saat menjadi scrum master
+2. apa yang akan di kerjakan hari ini?
+   jawaban : membuat laporan di notepad dan mepush ke github
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : Tidak
+
+
+Christoper
+1. kemarin mengerjakan apa?
+   jawaban : MeLakukan pull dari repository ke repository lokal
+2. apa yang akan di kerjakan hari ini?
+   jawaban : melakukan clone dari repository git ke repository lokal
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak
