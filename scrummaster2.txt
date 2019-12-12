@@ -1,0 +1,19 @@
+1.apa yang sudah dikerjakan?
+2.apa yang akan dikerjakan?
+3.apa ada masalah?
+Sabtu,7-12-2019
+aron 
+1.apa yang sudah dikerjakan?
+jawab : buat akun github dan trello,serta install node.js dan git dan juga mencoba menjalankan bespoke yang telah diinstal
+2.apa yang akan dikerjakan?
+jawab : membuat desain ,memasukkan isi presentasi
+3.apa ada masalah?
+jawab : terdapat masalah ketika push ke repository github (tidak bisa push file)
+
+Minggu,8-12-2019
+1.apa yang sudah dikerjakan?
+jawab : desain awal presentasi bespoke
+2.apa yang akan dikerjakan?
+jawab : mengedit template desain 
+3.apa ada masalah?
+jawab : terdapat masalah ketika push ke repository github (ketika push file semua ke reset karena mencoba code yang ada di internet dan sudah berhasil push)
