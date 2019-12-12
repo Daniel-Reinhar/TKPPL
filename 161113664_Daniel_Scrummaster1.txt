@@ -1,0 +1,66 @@
+kamis,5-12-2019
+Daniel
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : membuat repository remote dan menghubungkannya dengan repository lokal dan 	             mengundang anggota kelompok
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : salah dalam membuat memasukkan username pada saat konfigurasi awal git
+
+Aron
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : konfigurasi git
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak
+
+Guntur
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : konfigurasi git
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : memiliki masalah dalam menghubungkan repository remote ke repository lokal
+
+Christoper
+1. kemarin mengerjakan apa?
+   jawaban : membuat akun github, menginstall node.js, dan menginstall git
+2. apa yang akan di kerjakan hari ini?
+   jawaban : konfigurasi git
+3. ada masalah dalam mengerjakan tugas?
+   jawaban :tidak
+
+
+jumat,6-12-2019
+Daniel
+1. kemarin mengerjakan apa?
+   jawaban : mencoba push dari repository lokal ke repository remote
+2. apa yang akan di kerjakan hari ini?
+   jawaban : membuat awal mainApp dan melakukan commit, pull, dan push ke repository              remote
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : bermasalah saat melakukan push untuk pertama kali
+
+Aron
+1. kemarin mengerjakan apa?
+   jawaban : mencoba push dari repository lokal ke repository remote
+2. apa yang akan di kerjakan hari ini?
+   jawaban : melakukan clone dari repository remote ke repository lokal
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : bermasalah saat melakukan push untuk pertama kali
+
+Guntur
+1. kemarin mengerjakan apa?
+   jawaban : mencoba push dari repository lokal ke repository remote
+2. apa yang akan di kerjakan hari ini?
+   jawaban : melakukan clone dari repository remote ke repository lokal
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak
+
+Christoper
+1. kemarin mengerjakan apa?
+   jawaban : mencoba push dari repository lokal ke repository remote
+2. apa yang akan di kerjakan hari ini?
+   jawaban : melakukan clone dari repository remote ke repository lokal
+3. ada masalah dalam mengerjakan tugas?
+   jawaban : tidak
